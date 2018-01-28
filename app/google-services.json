@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "785191358657",
+    "firebase_url": "https://moze-app.firebaseio.com",
+    "project_id": "moze-app",
+    "storage_bucket": "moze-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785191358657:android:aec51b20ab862f23",
+        "android_client_info": {
+          "package_name": "com.afrofx.code.moze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785191358657-dult6lk7kgh7jouh9dhj6og03l74uuco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.afrofx.code.moze",
+            "certificate_hash": "957bb2c0688abd202cf1a44bdbf4ebbdfed059f8"
+          }
+        },
+        {
+          "client_id": "785191358657-56d901i4900t95601bokv9k0kdpmv3or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE9By-7H_T-yGLO2FboviHYI81jxRuZ5k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785191358657-56d901i4900t95601bokv9k0kdpmv3or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

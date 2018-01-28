@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Moze</string>
+
+   <!--================== butoes ==================-->
+    <string name="but_registar">REGISTAR</string>
+    <string name="but_entrar">ENTRAR</string>
+    <string name="but_recuperar">Moze</string>
+
+    <!--================== Links ==================-->
+    <string name="link_registar">REGISTAR</string>
+    <string name="link_recuperar_senha">Esqueceu a Senha?</string>
+    <string name="link_entrar">Esqueceu a Senha?</string>
+
+    <!--================== Form ==================-->
+    <string name="nome_usuario">Nome Completo</string>
+    <string name="cell_usuario">Celular</string>
+    <string name="email_usuario">Email</string>
+    <string name="password_usuario">Senha</string>
+    <string name="re_pass_usuario">Repetir Senha</string>
+    <string name="recuperar">Email ou Cell</string>
+
+    <!--================== texto ==================-->
+    <string name="txt_sucesso">SUCESSO</string>
+    <string name="txt_verificar">Verifique seu email ou cell</string>
+
+
+</resources>
